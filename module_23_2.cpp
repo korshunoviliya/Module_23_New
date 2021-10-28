@@ -26,7 +26,7 @@
 }
 
 int main() {
-    int train[3] = {};
+    int train[10] = {};
     int sum = 0;
     INPUT(train);
     CROWDED_WAGON(train);
